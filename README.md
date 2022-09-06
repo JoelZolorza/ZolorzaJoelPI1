@@ -1,2 +1,3 @@
-# ZolorzaJoelPI1
-Prueba de repositorio
+# Joel Zolorza, Repositorio de prueba
+Proyecto Integrador 1
+
